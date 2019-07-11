@@ -1,5 +1,7 @@
 <?php
 
-	echo 'olá pessoa';
+	echo 'olá pessoa!';
+	echo '<hr>';
+	echo 'olá galera!';
 
 ?>
